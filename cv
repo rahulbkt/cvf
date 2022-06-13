@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+</head>
+<body>
+    <table cellspacing="25px">
+        <tr>
+            <td>  <img src="image/279113301_141733615053297_3971910196337673104_n.jpg" alt="Prfile picture"> </td>
+        
+            <td><h1>Rahul Bhakat 😎</h1>
+                <p><i> A entrepreneur, Web developer and a Creative Learner</i></p></td>
+        </tr>
+    </table>
+    <hr>
+    <h3>Academic Qualification
+    </h3>
+    <table cellspacing="20px">
+        <tr><td>2016</td> 
+            <td>👉10th passout </td> </tr>
+            <tr><td>2018</td>
+                <td>👉12th passout</td>
+            </tr>
+            <tr>
+                <td>2021</td>
+                <td>👉B.sc Graduate</td>
+            </tr>
+
+       
+    </table>
+</body>
+</html>
